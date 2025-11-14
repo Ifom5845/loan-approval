@@ -54,12 +54,12 @@ El notebook incluye:
 
 ##  Resultados
 
-El modelo logra un rendimiento adecuado como versión inicial y sirve como línea base
+El modelo logra un rendimiento adecuado como versión inicial.
 
 
 
 ## 👨‍💻 Autor
 
-**Felipe** — Aspirante a Científico de Datos, comprometido con el aprendizaje profundo de Machine Learning y el análisis de datos.
+**IVAN FELIPE OSORIO MARIN** — Aspirante a Científico de Datos, comprometido con el aprendizaje profundo de Machine Learning y el análisis de datos.
 
 Siéntete libre de explorar el repositorio y dejar sugerencias o mejoras.

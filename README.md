@@ -8,7 +8,7 @@ Todo el análisis se realizó en un Jupyter Notebook como parte del portafolio p
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 * Comprender y preparar los datos para el modelado.
 * Explorar relaciones y posibles correlaciones entre variables.
@@ -18,7 +18,7 @@ Todo el análisis se realizó en un Jupyter Notebook como parte del portafolio p
 
 ---
 
-## 🧠 Habilidades Demostradas
+##  Habilidades Demostradas
 
 * Limpieza y preparación de datos.
 * Análisis exploratorio de datos (EDA).
@@ -29,7 +29,7 @@ Todo el análisis se realizó en un Jupyter Notebook como parte del portafolio p
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+##  Herramientas y Tecnologías
 
 * **Python 3.10+**
 * **Pandas** para manipulación de datos
@@ -40,7 +40,7 @@ Todo el análisis se realizó en un Jupyter Notebook como parte del portafolio p
 
 ---
 
-## 📊 Resumen del Modelo
+##  Resumen del Modelo
 
 El notebook incluye:
 
@@ -48,31 +48,15 @@ El notebook incluye:
 * Visualizaciones descriptivas
 * División en entrenamiento y prueba
 * Entrenamiento del modelo
-* Reporte de métricas: accuracy, precision, recall, f1-score y matriz de confusión
+* Reporte de métricas: accuracy, precision, matriz de confusión
 
 ---
 
-## 📈 Resultados
+##  Resultados
 
-El modelo logra un rendimiento adecuado como versión inicial y sirve como línea base. Algunas mejoras futuras pueden incluir:
+El modelo logra un rendimiento adecuado como versión inicial y sirve como línea base
 
-* Ajuste de hiperparámetros
-* Probar modelos más avanzados (Random Forest, Gradient Boosting, etc.)
-* Ingeniería de características
-* Validación cruzada para estimaciones más robustas
 
----
-
-## 🚀 Próximos Pasos
-
-Para reforzar y escalar el proyecto se pueden considerar:
-
-* Automatizar procesos de limpieza y preparación
-* Crear una API para desplegar el modelo (Flask / FastAPI)
-* Construir un dashboard interactivo (Streamlit)
-* Utilizar un dataset real de crédito (como los de Kaggle)
-
----
 
 ## 👨‍💻 Autor
 
